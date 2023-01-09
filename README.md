@@ -6,7 +6,7 @@
 ## About
 
 - 🎓 BSc in Informatics @ [Université de Reims Champagne-Ardenne](https://licenceinfo.fr/) 🇫🇷 (Completed)
-- 🎓 MSc in Informatics and Computing Engineering @ [Faculdade de Engenharia da Universidade do Porto](http://fe.up.pt) 🇫🇵🇹 (In Progress)
+- 🎓 MSc in Informatics and Computing Engineering @ [Faculdade de Engenharia da Universidade do Porto](http://fe.up.pt) 🇵🇹 (In Progress)
 - 💻 Interested in software engineering and video game design & development
 - 👾 Multiplayer game mod developer & enthusiast
 - 👨‍💻 Favorite programming language: [Lua](https://www.youtube.com/watch?v=jUuqBZwwkQw)
